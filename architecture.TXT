@@ -1,1 +1,2 @@
 Project architecture with utils classes and reviewed issues
+Profile screen with architecture component
